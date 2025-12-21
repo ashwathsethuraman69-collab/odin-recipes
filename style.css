@@ -1,20 +1,26 @@
 span{
     color: blue;
 }
+
+.red{
+    color: red;
+}
+
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif, serif;
     font-weight: 1000;
     width: 500;
     height: auto;
     text-align: center;
-}
-
-.red{
-    color: red;
+    padding: auto;
+    margin: -20px;
+    background-color: rgb(255, 128, 128);
+    box-sizing: border-box;
 }
 
 ul{
     width: 500;
     height: auto;
     text-align: center;
+    background-color: yellow;
 }
