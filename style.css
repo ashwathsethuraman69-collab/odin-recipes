@@ -18,10 +18,13 @@ h1{
     border: 10px solid blue;
     background-color: rgb(255, 128, 128);
     box-sizing: border-box;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    box-sizing: border-box;
 }
 
 ul{
-    width: 500;
+    width: auto;
     height: auto;
     margin-left: -10px;
     margin-right: -10px;
