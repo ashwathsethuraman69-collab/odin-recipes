@@ -10,7 +10,7 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif, serif;
     width: auto;
     height: auto;
-    margin-bottom: -16px;
+    margin-bottom: -20px;
     margin-top: -10px;
     margin-left: -10px;
     margin-right: -10px;
@@ -29,4 +29,5 @@ ul{
     background-color: yellow;
     box-sizing: border-box;
     font-family: 'Trebuchet MS', 'sans-serif';
+    font-size: 20px;
 }
