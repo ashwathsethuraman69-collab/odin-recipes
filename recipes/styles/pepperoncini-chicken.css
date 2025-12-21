@@ -27,8 +27,17 @@ span{
 
 .returing{
     margin-bottom: -15px;
+    text-align: start;
 }
 
 #Prep{
-    
+    box-sizing: border-box;
+    margin-bottom: auto;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    padding: auto;
+    border: 10px solid salmon;
+    color: white;
+    background-color: black;
 }
