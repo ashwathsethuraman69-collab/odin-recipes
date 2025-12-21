@@ -8,22 +8,24 @@ span{
 
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif, serif;
-    font-weight: 1000;
-    width: 500;
+    width: auto;
     height: auto;
-    text-align: center;
     margin-bottom: -16px;
     margin-top: -10px;
     margin-left: -10px;
     margin-right: -10px;
-    background-color: rgb(255, 128, 128);
+    text-align: center;
     border: 10px solid blue;
+    background-color: rgb(255, 128, 128);
     box-sizing: border-box;
 }
 
 ul{
     width: 500;
     height: auto;
+    margin-left: -10px;
+    margin-right: -10px;
     text-align: center;
     background-color: yellow;
+    box-sizing: border-box;
 }
