@@ -30,4 +30,5 @@ ul{
     box-sizing: border-box;
     font-family: 'Trebuchet MS', 'sans-serif';
     font-size: 20px;
+    list-style-type:none
 }
