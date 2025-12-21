@@ -12,12 +12,12 @@ h1{
     width: 500;
     height: auto;
     text-align: center;
-    padding: auto;
-    margin-bottom: -15px;
+    margin-bottom: -16px;
     margin-top: -10px;
     margin-left: -10px;
     margin-right: -10px;
     background-color: rgb(255, 128, 128);
+    border: 10px solid blue;
     box-sizing: border-box;
 }
 
