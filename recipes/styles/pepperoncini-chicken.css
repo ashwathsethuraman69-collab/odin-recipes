@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    background-color: yellow;
+    margin-bottom: -15px;
+}
+
+p{
+    margin-bottom: -1px;
+}
+
+img{
+    width: 300px;
+    margin: 0px auto;
+}
+
+span{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.returing{
+    margin-bottom: -15px;
+}
