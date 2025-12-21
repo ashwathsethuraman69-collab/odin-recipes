@@ -1,0 +1,20 @@
+span{
+    color: blue;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif, serif;
+    font-weight: 1000;
+    width: 500;
+    height: auto;
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+ul{
+    width: 500;
+    height: auto;
+    text-align: center;
+}
