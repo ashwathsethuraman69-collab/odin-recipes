@@ -66,3 +66,8 @@ ul,
 ol{
     border: 10px solid green;
 }
+
+.highlight{
+    color: black;
+    background-color: white;
+}
