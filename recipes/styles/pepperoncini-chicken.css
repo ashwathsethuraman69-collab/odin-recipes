@@ -56,6 +56,13 @@ span{
     background-color: black;
 }
 
-#Ingedients{
+li{
     text-align: center;
+    color: gray;
+    background-color: black;
+}
+
+ul,
+ol{
+    border: 10px solid green;
 }
