@@ -44,28 +44,19 @@ span{
     font-family: 'Trebuchet MS', 'sans-serif';
 }
 
-#Prep{
+ul,
+ol{
+    border: 10px solid green;
+    text-align: start;
+    color: gray;
+    background-color: black;
     box-sizing: border-box;
     margin-bottom: auto;
     margin-top: 20px;
     font-weight: bold;
     font-size: 20px;
-    padding-left: 0;
-    border: 10px solid salmon;
-    color: white;
+    padding: auto;
     background-color: black;
-}
-
-li{
-    text-align: center;
-    color: gray;
-    background-color: black;
-}
-
-ul,
-ol{
-    border: 10px solid green;
-    text-align: start;
 }
 
 .highlight{
