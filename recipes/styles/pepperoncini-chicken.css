@@ -50,7 +50,7 @@ span{
     margin-top: 20px;
     font-weight: bold;
     font-size: 20px;
-    padding: auto;
+    padding-left: 0;
     border: 10px solid salmon;
     color: white;
     background-color: black;
@@ -65,6 +65,7 @@ li{
 ul,
 ol{
     border: 10px solid green;
+    text-align: start;
 }
 
 .highlight{
