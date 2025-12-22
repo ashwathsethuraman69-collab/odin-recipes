@@ -58,6 +58,7 @@ span{
 
 ul,
 ol{
+    font-family: 'Trebuchet MS', sans-serif;
     border: 10px solid green;
     text-align: start;
     color: gray;
